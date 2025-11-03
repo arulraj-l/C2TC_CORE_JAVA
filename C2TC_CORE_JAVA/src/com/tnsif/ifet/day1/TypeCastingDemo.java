@@ -1,4 +1,4 @@
-package com.tnsif.ifet.dayone;
+package com.tnsif.ifet.day1;
 
 public class TypeCastingDemo {
     public static void main(String[] args) {
